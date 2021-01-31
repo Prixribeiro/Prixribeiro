@@ -6,7 +6,7 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/priscila-ribeiro-998412189" target="blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/priscila-ribeiro-998412189/" target="blank">LinkedIn</a>
 </p>
 <p align="left"> Email: priscila.sribeiro@yahoo.com.br </p>
 
