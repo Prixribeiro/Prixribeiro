@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm Priscila</h1>
+<h1 align="center">Hello World! 👋, Eu sou a Pri! </h1>
 <h3 align="center">Turismóloga de profissão, desenvolvedora de coração!</h3>
 
 - 🌱 Atualmente estudando: ** React, Node, Python e MySQL.**
