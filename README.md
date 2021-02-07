@@ -1,6 +1,5 @@
 <h1 align="center">Hello World! 👋, Eu sou a Pri! </h1>
-<h3 align="center">Turismóloga de profissão, desenvolvedora de coração!</h3>
-<h2 align="center"> Tenho 20 e poucos anos e não vou parar aqui! </h2>
+<h3 align="center"> "Pouco tempo a perder e muita coisa a aprender!" </h3>
 <hr />
 
 - 🌱 Atualmente estudando: ** React, Node, Python e MySQL.**
