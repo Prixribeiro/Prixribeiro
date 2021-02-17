@@ -2,8 +2,8 @@
 <h3 align="center"> "Pouco tempo a perder e muita coisa a aprender!" </h3>
 <hr />
 
-- 🌱 Atualmente estudando: ** React, Node, Python e MySQL.**
-- ✅ Conhecimento em: HTML, CSS, BootStrap, JavaScript, PHP e metodologia ágil.
+- 🌱 Atualmente estudando: ** React Native, Node. **
+- ✅ Conhecimento em: HTML, CSS, BootStrap, JavaScript, PHP, Python, MySQL, MongoDB e metodologia ágil.
  <hr />
  
 <h3> Formação </h3>
