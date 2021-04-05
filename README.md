@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, Eu sou a Pri! </h1>
+<h1 align="center">Hello World! 👋, Eu sou a Pri! :woman_technologist: </h1>
 <h3 align="center"> "Pouco tempo a perder e muita coisa a aprender!" </h3>
 <hr />
 
