@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/priscila-ribeiro-998412189/" target="blank">LinkedIn</a>
 </p>
-<a href="priscila.sribeiro@yahoo.com.br" align="left"> Email  </a>
+<a href="mailto:priscila.sribeiro@yahoo.com.br" align="left"> Email  </a>
 
 <hr />
 <h3 align="left">Languages and Tools:</h3>
