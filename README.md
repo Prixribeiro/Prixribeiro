@@ -2,7 +2,7 @@
 <h3 align="center"> "Pouco tempo a perder e muita coisa a aprender!" </h3>
 <hr />
 
-- 🌱 Atualmente estudando: ** React, Node e Java. **
+- 🌱 Atualmente estudando: ** Python, SQL, PowerBI **
 - ✅ Conhecimento em: HTML, CSS, BootStrap, JavaScript, React Native, NodeJS, React, PHP, Python, MySQL, MongoDB e metodologia ágil.
  <hr />
  
