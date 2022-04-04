@@ -2,13 +2,13 @@
 <h3 align="center"> "Pouco tempo a perder e muita coisa a aprender!" </h3>
 <hr />
 
-- 🌱 Atualmente estudando: ** Python, SQL, PowerBI **
+- 🌱 Atualmente estudando: ** Python, SQL **
 - ✅ Conhecimento em: HTML, CSS, BootStrap, JavaScript, React Native, NodeJS, React, PHP, Python, MySQL, MongoDB e metodologia ágil.
  <hr />
  
 <h3> Formação </h3>
 - Desenvolvimento Full Stack pela ONG Recode. <br />
-- Análise e Desenvolvimento de Sistemas pelo Senac Brasil.
+- Análise e Desenvolvimento de Sistemas pela FIAP.
 
 <hr />
 
